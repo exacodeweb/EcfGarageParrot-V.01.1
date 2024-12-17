@@ -1,4 +1,3 @@
-<!----------------------------------------------- A COMPLETER ---------------------------------------------->
 # README - Garage Vincent Parrot
 
 1. Présentation du Projet
@@ -46,9 +45,7 @@ Utilisation de modèles UML pour planifier les interactions et la structure des 
 ## Diagramme de l'Architecture
 Voici le diagramme de l'architecture du projet :
 
-<!--![Diagramme de l'architecture](Diagrammes/Ds-US2.2.jpg)-->
 ![Diagramme US 1](Diagrammes/Ds-1.1%20(US%101).jpg)
-<!--//![Diagramme US 2](Diagrammes/Ds-2.2%20(US%202).jpg)-->
 
 ## Description
 Ce projet est un exemple de documentation utilisant Markdown.
@@ -166,3 +163,16 @@ Informations sur la maintenance et les contributions au projet :
 
 Maintenance du projet : o Le projet Garage V. Parrot sera continuellement surveillé et maintenu par une équipe dédiée de développeurs et de gestionnaires. o Les mises à jour régulières seront effectuées pour garantir le bon fonctionnement de l'application web vitrine, ainsi que pour répondre aux besoins évolutifs des utilisateurs et de l'entreprise.
 Contributions au projet : o Les contributions à l'amélioration du projet sont les bienvenues de la part de la communauté des développeurs. o Les contributeurs peuvent proposer des suggestions d'amélioration, signaler des bugs, ou soumettre des demandes de fonctionnalités via le processus de suivi des problèmes (issue tracking) sur le dépôt GitHub du projet. o Les contributions seront évaluées et intégrées au projet par l'équipe de développement, dans le respect des normes de qualité et de cohérence établies. En favorisant la transparence et la collaboration, le projet Garage V. Parrot encourage la participation active de la communauté des développeurs, tout en s'engageant à assurer la maintenance continue et l'amélioration constante de l'application web vitrine pour le bénéfice de ses utilisateurs.
+=======
+ECF Garage v.parrot
+Evaluation en court de formation studi
+
+Mon ECF
+Bienvenue sur le site v.Parrot, concernant les services automobile et véhicules d'occasion.
+
+Comment exécuter le site en local
+Clonez ce dépôt sur votre machine locale.
+Ouvrez le fichier accueil.html dans votre navigateur.
+Personnalisation
+Si vous souhaitez personnaliser l'animation ou les styles, vous pouvez modifier le fichier styles.css pour apporter les changements souhaités.
+
