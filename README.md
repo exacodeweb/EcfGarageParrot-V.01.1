@@ -135,10 +135,19 @@ Les tâches en cours et terminées.
 Les éventuelles améliorations et retours du client.
 Le tableau Trello est accessible ici : Backlog Trello - Garage Vincent Parrot.
 
+## Ressources du projet
+### Maquettes du projet
+- [Maquettes Figma](https://www.figma.com/design/I1yGQy71smxfwwQFWgvCdE/ECF-Projet-Parrot?node-id=21-20&t=jsRj49fHSf8JF9qe-1)
+### Suivi du projet
+- [Tableau Trello](https://trello.com/b/kjFier8C/ecf-projet-parrot-studi-v12)
 
 
-<!--  -->
 
+
+
+
+# SECONDE PARTIE
+=======
 ECF Garage v.parrot Evaluation en court de formation studi
 
 Mon ECF Bienvenue sur le site v.Parrot, concernant les services automobile et véhicules d'occasion.
@@ -175,4 +184,3 @@ Clonez ce dépôt sur votre machine locale.
 Ouvrez le fichier accueil.html dans votre navigateur.
 Personnalisation
 Si vous souhaitez personnaliser l'animation ou les styles, vous pouvez modifier le fichier styles.css pour apporter les changements souhaités.
-
