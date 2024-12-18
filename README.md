@@ -45,7 +45,7 @@ Utilisation de modèles UML pour planifier les interactions et la structure des 
 ## Diagramme de l'Architecture
 Voici le diagramme de l'architecture du projet :
 
-![Diagramme US 1](Diagrammes/Ds-1.1.jpg)
+![Diagramme US 1](Diagrammes/Ds-1.1-US1.jpg)
 
 ## Description
 Ce projet est un exemple de documentation utilisant Markdown.
