@@ -45,7 +45,7 @@ Utilisation de modèles UML pour planifier les interactions et la structure des 
 ## Diagramme de l'Architecture
 Voici le diagramme de l'architecture du projet :
 
-![Diagramme US 1](Diagrammes/Ds-1.1%20(US%101).jpg)
+![Diagramme US 1](Diagrammes/Ds-1.1.jpg)
 
 ## Description
 Ce projet est un exemple de documentation utilisant Markdown.
@@ -139,7 +139,7 @@ Le tableau Trello est accessible ici : Backlog Trello - Garage Vincent Parrot.
 ### Maquettes du projet
 - [Maquettes Figma](https://www.figma.com/design/I1yGQy71smxfwwQFWgvCdE/ECF-Projet-Parrot?node-id=21-20&t=jsRj49fHSf8JF9qe-1)
 ### Suivi du projet
-- [Tableau Trello](https://trello.com/b/kjFier8C/ecf-projet-parrot-studi-v12)
+- [Tableau Trello](https://trello.com/b/kjFier8C/ecf-projet-parrot-studi-v12_id)
 
 
 
